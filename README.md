@@ -2,7 +2,7 @@
 
 `langgraph-bigtool` is a Python library for creating
 [LangGraph](https://langchain-ai.github.io/langgraph/) agents that can access large
-numbers of tools. It leverages LangGraph's long-term
+numbers of tools. It leverages LangGraph's long-term 
 [memory store](https://langchain-ai.github.io/langgraph/how-tos/memory/semantic-search/)
 to allow an agent to search for and retrieve relevant tools for a given problem.
 
